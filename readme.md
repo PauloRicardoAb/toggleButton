@@ -4,7 +4,7 @@ Este projeto apresenta um botão **toggle** estilizado com **HTML, CSS e JavaScr
 
 Este projeto foi desenvolvido como parte do Instituto Proa, com base no tutorial original disponível no YouTube.
 
-📺 Projeto original: [How to Create a Google Loader in HTML & CSS | CSS Animations](https://youtu.be/d8QcrfDsw9c?si=zlV6BbsnkfigjQ69
+📺 Projeto original: https://youtu.be/d8QcrfDsw9c?si=zlV6BbsnkfigjQ69
 
 ## ✨ Funcionalidades
 
