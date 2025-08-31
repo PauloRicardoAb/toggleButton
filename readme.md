@@ -2,6 +2,10 @@
 
 Este projeto apresenta um botão **toggle** estilizado com **HTML, CSS e JavaScript**, que alterna entre os estados **ativo** e **inativo**. Além da animação suave, o botão também altera o ícone de cadeado para indicar visualmente o estado atual.
 
+Este projeto foi desenvolvido como parte do Instituto Proa, com base no tutorial original disponível no YouTube.
+
+📺 Projeto original: [How to Create a Google Loader in HTML & CSS | CSS Animations](https://youtu.be/d8QcrfDsw9c?si=zlV6BbsnkfigjQ69
+
 ## ✨ Funcionalidades
 
 - Alternância entre estados com classe `.active`
